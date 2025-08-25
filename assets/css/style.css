@@ -341,7 +341,7 @@ a{
 /* Responsive Design */
 @media (max-width: 992px) {
   .hero-title {
-      font-size: 6rem;
+      font-size: 3rem;
   }
 
   .navbar-nav .nav-item {
