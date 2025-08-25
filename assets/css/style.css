@@ -29,6 +29,12 @@ a {
     color: var(--active-color) !important;
 }
 
+
+.no-select {
+  user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none;
+}
 /* Custom Navbar */
 .main-header {
     background-color: var(--nav-bg-color) !important;
