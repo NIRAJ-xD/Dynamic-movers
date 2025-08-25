@@ -288,7 +288,7 @@ a {
 }
 
 .contact-info {
-    background: var(--secondary-color);
+    background: var(--text-color);
     color: var(--primary-color);
     border-radius: 16px;
     padding: 1.5rem;
@@ -315,7 +315,7 @@ a {
 
 /* Footer */
 .footer {
-    background: var(--secondary-color);
+    background: var(--text-color);
     color: var(--primary-color);
     padding: 2rem 0;
     text-align: center;
