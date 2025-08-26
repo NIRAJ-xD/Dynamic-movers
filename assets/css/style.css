@@ -59,14 +59,16 @@ a {
     transition: color 0.3s ease;
 }
 
-.navbar-nav .nav-link:hover {
+.nav-item .nav-link:hover {
     color: var(--active-color) !important;
 }
 
-.navbar-nav .nav-item a.active {
+.nav-item a.active {
     font-weight: 500;
     color: var(--accent-color) !important;
 }
+
+
 
 /* Hero Section */
 .hero-section {
